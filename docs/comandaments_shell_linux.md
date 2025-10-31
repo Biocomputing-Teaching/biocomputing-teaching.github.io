@@ -1,3 +1,8 @@
+---
+title: Comandaments bàsics de la shell Linux
+layout: default
+permalink: /cat-shell-linux/
+---
 # 🌐 Comandaments essencials per treballar a la shell de Linux
 
 ## 🧭 Navegació pel sistema de fitxers
