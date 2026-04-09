@@ -2,7 +2,7 @@
 
 Note: this web site contains both Catalan and English documents related to the daily work at the [CBBL](https://mon.uvic.cat/cbbl), but do not worry, there are plenty of tools to translate documents between languages, and you can easily move everything from English to Catalan any time &#128521;.
 
-* [Recursos útils — FCTE i Biocomputació](/recursos-fcte/)
+* [Recursos útils — FCTE i Biocomputació](https://quantitativebiologyiriscc.github.io/hpcuvic/)
 * [Instruccions bàsiques per treballar a una terminal shell (Linux/Mac/Windows shell)](/cat-shell-linux)
 <!-- GH_PAGES_LIST_START -->
 ## Public GitHub Pages repositories for the Biocomputing-Teaching organization
